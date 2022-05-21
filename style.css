@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: orange;
+    width: 50%;
+    height: 50vh;
+    margin: 10% 0 0 25%;
+}
+.header, .about, .record , .option{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.header, .about{
+    font-size: 30px;
+}
+.header{
+    margin: 20px 0 20px 0; 
+}
+
+.about{
+    width: 100%;
+    font-size: 38px;
+    margin: 20px 0 20px 0;
+
+}
+.record {
+    font-size: 30px;
+    margin: 20px;
+}
+.option{
+    justify-content: space-around;
+}
+.option button{
+    padding: 20px 40px;
+    background-color: orange;
+    border:1px solid white;
+}
+
