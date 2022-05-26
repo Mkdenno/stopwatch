@@ -2,6 +2,7 @@
 Simple stopwatch
  ## By Dennis Kiprop
 ## Screenshot
+![Screenshot from 2022-05-26 08-29-49](https://user-images.githubusercontent.com/104482846/170422750-f7089f1a-c895-42aa-97c5-665df9c40e82.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
