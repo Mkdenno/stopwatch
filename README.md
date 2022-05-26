@@ -30,7 +30,7 @@ As a user of the application,you will be able to :
  ****
  [Go Back to the top](#stopwatch)
 ### Live Link
-- Click this link to view the live application https://mkdenno.github.io/quiz-board/
+- Click this link to view the live application mkdenno.github.io/stopwatch/
 ### Technology  Used
 * HTML - which was used to develop the structure off the pages.
 * CSS - which was used to style the User Interface.
